@@ -2,7 +2,7 @@
 name: Bug Report
 about: Use this template to submit a bug report
 title: "Bug Report: "
-labels: ["bug"]
+labels: ["Bug"]
 ---
 
 <!--

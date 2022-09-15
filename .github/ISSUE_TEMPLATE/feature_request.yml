@@ -21,7 +21,7 @@ body:
         - Rokuhan DCC turnout controller
     validations:
       required: true
-  -type: textarea
+  - type: textarea
     id: feature
     attributes:
       label: Feature details

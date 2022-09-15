@@ -6,12 +6,12 @@ description: Request a new feature
 #   - enhancement
 title: "[Feature Request]: "
 body:
-#   - type: markdown
-#     attributes:
-#       value: |
-#         Thanks for suggesting a new feature!
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new feature!
         
-#         To help me understand what you're looking for and decide if and how to implement it, please provide as much detail as possible.
+        To help me understand what you're looking for and decide if and how to implement it, please provide as much detail as possible.
   - type: dropdown
     id: project
     attributes:

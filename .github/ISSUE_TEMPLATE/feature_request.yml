@@ -1,9 +1,9 @@
 name: Feature Request
 description: Request a new feature
-# assignees: 
-#   - peteGSX
-# labels:
-#   - enhancement
+assignees: 
+  - peteGSX
+labels:
+  - enhancement
 title: "[Feature Request]: "
 body:
   - type: markdown

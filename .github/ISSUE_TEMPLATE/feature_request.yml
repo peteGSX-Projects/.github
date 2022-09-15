@@ -1,9 +1,9 @@
 name: Feature Request
 description: Request a new feature
-assignees: 
-  - peteGSX
-labels:
-  - enhancement
+# assignees: 
+#   - peteGSX
+# labels:
+#   - enhancement
 title: "[Feature Request]: "
 body:
   - type: markdown
@@ -11,21 +11,21 @@ body:
       value: |
         Thanks for suggesting a new feature!
         To help me understand what you're looking for and decide if and how to implement it, please provide as much detail as possible.
-  - type: dropdown
-    id: project
-    attributes:
-      label: Choose a project
-      options:
-        - Programmable DCC turntable controller
-        - Rokuhan DCC turnout controller
-    validations:
-      required: true
-  -type: textarea
-    id: feature
-    attributes:
-      label: Feature details
-      description: Please provide your requested feature details
-      value: |
-        I would like to see...
-    validations:
-      required: true
+  # - type: dropdown
+  #   id: project
+  #   attributes:
+  #     label: Choose a project
+  #     options:
+  #       - Programmable DCC turntable controller
+  #       - Rokuhan DCC turnout controller
+  #   validations:
+  #     required: true
+  # -type: textarea
+  #   id: feature
+  #   attributes:
+  #     label: Feature details
+  #     description: Please provide your requested feature details
+  #     value: |
+  #       I would like to see...
+  #   validations:
+  #     required: true

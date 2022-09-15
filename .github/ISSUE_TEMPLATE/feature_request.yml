@@ -10,7 +10,6 @@ body:
     attributes:
       value: |
         Thanks for suggesting a new feature!
-
         To help me understand what you're looking for and decide if and how to implement it, please provide as much detail as possible.
   - type: dropdown
     id: project
